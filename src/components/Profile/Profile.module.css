@@ -1,0 +1,31 @@
+.profile{
+display: block;
+width: auto;
+text-align: center;
+border: 2px solid black;
+}
+.description{
+    display: block;
+}
+.avatar{
+    display: block;
+    
+
+}
+.name{
+margin-top: 0;
+width: 24px;
+
+
+}
+.tag{
+    width: 22px;
+
+}
+.label{
+width: 20px;
+}
+.quantity{
+width: 16px;
+
+}

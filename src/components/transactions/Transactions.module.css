@@ -1,0 +1,13 @@
+.transactionHistory{
+    border: 1px solid black;
+    
+
+}
+
+thead{
+    background-color: aqua;
+    
+}
+tr{
+    border: 1px solid black;
+}

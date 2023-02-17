@@ -18,7 +18,6 @@ font-size: 18px;
 .item{
     display: flex;
     flex-direction: column;
-    background-color: green;
     width: 60px;
     padding: 8px;
 

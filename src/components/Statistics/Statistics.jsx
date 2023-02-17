@@ -1,7 +1,7 @@
 // import clsx from "clsx";
 import PropTypes from 'prop-types';
 import css from 'components/Statistics/Statistics.module.css';
-// import { getRandomHexColor } from './HexColor';
+import { getRandomHexColor } from './HexColor';
 
 export const Statistics = ({ title, stats }) => {
   return <section className={css.statistics}>
@@ -9,7 +9,9 @@ export const Statistics = ({ title, stats }) => {
 
   <ul className={css.statList}>
     {stats.map(d => (
-      <li key={d.id} className={css.item} >
+      <li key={d.id} className={css.item} style={{
+      backgroundColor: getRandomHexColor()
+   }} >
       <span className={css.label}>{d.label} </span>
       <span className={css.percentage}>{d.percentage}%</span>
     </li>))}

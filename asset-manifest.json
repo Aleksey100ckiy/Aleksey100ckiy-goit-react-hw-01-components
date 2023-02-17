@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aleksey100ckiy-goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Aleksey100ckiy-goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Aleksey100ckiy-goit-react-hw-01-components/static/css/main.fd8b4db9.css",
+    "main.js": "/Aleksey100ckiy-goit-react-hw-01-components/static/js/main.bc82554e.js",
     "index.html": "/Aleksey100ckiy-goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Aleksey100ckiy-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Aleksey100ckiy-goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.fd8b4db9.css.map": "/Aleksey100ckiy-goit-react-hw-01-components/static/css/main.fd8b4db9.css.map",
+    "main.bc82554e.js.map": "/Aleksey100ckiy-goit-react-hw-01-components/static/js/main.bc82554e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.fd8b4db9.css",
+    "static/js/main.bc82554e.js"
   ]
 }
